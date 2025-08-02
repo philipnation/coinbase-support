@@ -1,0 +1,9 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: *
+  Access-Control-Allow-Headers: *
+  Access-Control-Expose-Headers: *
+  X-Frame-Options: ALLOWALL
+  Content-Security-Policy: default-src * blob: data:; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src *; img-src * data:; style-src * 'unsafe-inline'; font-src * data:; frame-src *;
+  X-Content-Type-Options: none
+  X-XSS-Protection: 0
